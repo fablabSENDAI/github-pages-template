@@ -1,4 +1,11 @@
+---
+layout: default
+title: home
+nav_order: 1
+---
+
 # hello world !!!
+FabLabSENDAI-FLATのドキュメントテンプレートです。
 
 ## LINK
 This is our [web page's link](http://fablabsendai-flat.com/)
